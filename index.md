@@ -3,6 +3,7 @@ layout: default
 ---
 
 [Lensed LDT SN](./LDT_SN/LDT_list.html).
+[test](./LDT_SN/SDSSJ1100+5329-SDSS-I/SDSSJ1100+5329-SDSS-I.html).
 
 [Para Español aquí](./bio_es.html).
 
